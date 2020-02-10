@@ -1,4 +1,4 @@
-#Mon Feb 10 10:39:57 CST 2020
+#Mon Feb 10 17:27:54 CST 2020
 base.0=D\:\\Proyectos_SSA\\formvalidation\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
