@@ -110,6 +110,12 @@
       "languageVersion": "1.12"
     },
     {
+      "name": "mime_type",
+      "rootUri": "file:///home/alx/flutter/.pub-cache/hosted/pub.dartlang.org/mime_type-0.2.5",
+      "packageUri": "lib/",
+      "languageVersion": "0.8"
+    },
+    {
       "name": "path",
       "rootUri": "file:///home/alx/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.6.4",
       "packageUri": "lib/",
@@ -206,7 +212,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-02-15T23:37:44.567105Z",
+  "generated": "2020-02-16T13:39:56.134588Z",
   "generator": "pub",
   "generatorVersion": "2.7.0"
 }

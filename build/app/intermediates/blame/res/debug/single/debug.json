@@ -5,43 +5,39 @@
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/layout-v21/notification_action.xml"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/layout-v21/notification_action.xml"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable/notification_bg.xml"
-    },
-    {
-        "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/layout/notification_template_icon_group.xml"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable/notification_bg.xml"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable/notification_tile_bg.xml"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable/notification_tile_bg.xml"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable-hdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
@@ -49,11 +45,11 @@
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable-v21/notification_action_background.xml"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable-v21/notification_action_background.xml"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -61,31 +57,23 @@
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/layout-v21/notification_action_tombstone.xml"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/layout-v21/notification_action_tombstone.xml"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/layout/notification_action_tombstone.xml"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable/notification_bg_low.xml"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable/notification_bg_low.xml"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/layout_notification_action.xml.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/layout/notification_action.xml"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
@@ -93,23 +81,23 @@
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/layout-v21/notification_template_custom_big.xml"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable/notification_icon_background.xml"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable/notification_icon_background.xml"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/layout/notification_template_part_chronometer.xml"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
@@ -117,23 +105,23 @@
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/layout/notification_template_part_time.xml"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/layout-v16/notification_template_custom_big.xml"
+        "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/xml_flutter_image_picker_file_paths.xml.flat",
+        "source": "/home/alx/flutter projects/formvalidation/build/image_picker/intermediates/packaged_res/debug/xml/flutter_image_picker_file_paths.xml"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/layout-v21/notification_template_icon_group.xml"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
@@ -141,6 +129,6 @@
     },
     {
         "merged": "/home/alx/flutter projects/formvalidation/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/dd530591657d3005e1a9cb8506e5344a/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+        "source": "/home/alx/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/3289c8ac145341b4e8bc0c616f10af39/res/drawable-mdpi-v4/notification_bg_normal.9.png"
     }
 ]
